@@ -17,4 +17,4 @@ This project has been generated via mix:
 
 ### run
 
-    mix app.start
+    mix run -e Hello.start
