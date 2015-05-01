@@ -1,9 +1,11 @@
-Hello
+Hello World in Elixir + Clint
 =====
 
-Hello world in elixir and clint
+Hello world in elixir and clint (https://github.com/lpil/clint).
 
-this project has been generated via mix:
+
+
+This project has been generated via mix:
 
     mix new clint_hello --module Hello
 
